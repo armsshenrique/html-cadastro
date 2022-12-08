@@ -1,0 +1,25 @@
+.formulario input {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        border-radius: 2px;
+        border: 1px solid #ccc;
+        margin-top: 3px;
+        width: 220px;
+        font-family: "Arial"
+    }
+
+.formulario button {
+        background-color: #088a68;
+        color: #ffffff;
+        width: 100px;
+        height: 40px;
+        border-radius: 2px;
+        border: 1px solid #ccc;
+        margin-top: 20px;
+    }
+    
+.formulario button:hover{
+        background-color: #04b486;
+        cursor: pointer;
+    }
